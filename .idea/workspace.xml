@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b591aa03-7fa6-4fcf-8229-55d01c31c4c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Hub.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_hub_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/01.jpg" afterPath="$PROJECT_DIR$/static/images/01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/02.jpg" afterPath="$PROJECT_DIR$/static/images/02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/03.jpg" afterPath="$PROJECT_DIR$/static/images/03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/04.jpg" afterPath="$PROJECT_DIR$/static/images/04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/05.jpg" afterPath="$PROJECT_DIR$/static/images/05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/06.jpg" afterPath="$PROJECT_DIR$/static/images/06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/07.jpg" afterPath="$PROJECT_DIR$/static/images/07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/08.jpg" afterPath="$PROJECT_DIR$/static/images/08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/09.jpg" afterPath="$PROJECT_DIR$/static/images/09.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/10.jpg" afterPath="$PROJECT_DIR$/static/images/10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/11.jpg" afterPath="$PROJECT_DIR$/static/images/11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/12.jpg" afterPath="$PROJECT_DIR$/static/images/12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/13.jpg" afterPath="$PROJECT_DIR$/static/images/13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/14.jpg" afterPath="$PROJECT_DIR$/static/images/14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/15.jpg" afterPath="$PROJECT_DIR$/static/images/15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/16.jpg" afterPath="$PROJECT_DIR$/static/images/16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/17.jpg" afterPath="$PROJECT_DIR$/static/images/17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/18.jpg" afterPath="$PROJECT_DIR$/static/images/18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/19.jpg" afterPath="$PROJECT_DIR$/static/images/19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/20.jpg" afterPath="$PROJECT_DIR$/static/images/20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/21.jpg" afterPath="$PROJECT_DIR$/static/images/21.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/22.jpg" afterPath="$PROJECT_DIR$/static/images/22.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/23.jpg" afterPath="$PROJECT_DIR$/static/images/23.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/24.jpg" afterPath="$PROJECT_DIR$/static/images/24.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/25.jpg" afterPath="$PROJECT_DIR$/static/images/25.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/26.jpg" afterPath="$PROJECT_DIR$/static/images/26.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/27.jpg" afterPath="$PROJECT_DIR$/static/images/27.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/28.jpg" afterPath="$PROJECT_DIR$/static/images/28.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/29.jpg" afterPath="$PROJECT_DIR$/static/images/29.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/30.jpg" afterPath="$PROJECT_DIR$/static/images/30.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/31.jpg" afterPath="$PROJECT_DIR$/static/images/31.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/32.jpg" afterPath="$PROJECT_DIR$/static/images/32.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/33.jpg" afterPath="$PROJECT_DIR$/static/images/33.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/34.jpg" afterPath="$PROJECT_DIR$/static/images/34.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/35.jpg" afterPath="$PROJECT_DIR$/static/images/35.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/36.jpg" afterPath="$PROJECT_DIR$/static/images/36.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/loader.gif" afterPath="$PROJECT_DIR$/static/images/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/j360.js" afterPath="$PROJECT_DIR$/static/js/j360.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-1.4.4.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-1.4.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,13 +29,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_hub_server.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test_hub_server.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_hub_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="38" selection-start="634" selection-end="634" vertical-scroll-proportion="0.61764705" vertical-offset="210" max-vertical-offset="735">
+            <state line="35" column="38" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="735">
               <folding>
                 <element signature="e#35#68#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="27" selection-start="65" selection-end="74" vertical-scroll-proportion="0.0882353" vertical-offset="0" max-vertical-offset="510">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -180,6 +143,9 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/static" />
@@ -420,10 +386,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_hub_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="38" selection-start="634" selection-end="634" vertical-scroll-proportion="0.61764705" vertical-offset="210" max-vertical-offset="735">
+        <state line="35" column="38" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="735">
           <folding>
             <element signature="e#35#68#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="27" selection-start="65" selection-end="74" vertical-scroll-proportion="0.0882353" vertical-offset="0" max-vertical-offset="510">
+          <folding />
         </state>
       </provider>
     </entry>
