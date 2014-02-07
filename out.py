@@ -17,5 +17,26 @@ def out_image_name():
             break
         count = count + 1
 
+
+
+
 if __name__ == '__main__':
-    out_image_name()
+    import Image
+    import glob, os
+    dir_outpath=r'/Users/K/Documents/Static/milk2//'
+    size = 640, 380
+    for files in  glob.glob(r'/Users/K/Documents/Static/milk/*.png'):
+        #print files
+        filepath,filename = os.path.split(files)
+        filterame,exts = os.path.splitext(filename)
+        #print filepath,'/n',filename,'/n',filterame,'/n',exts
+        if(os.path.isdir(dir_outpath)==False):
+            os.mkdir(dir_outpath)
+            print 'make dir:',dir_outpath
+        im=Image.open(files)
+        w,h=im.size
+        im.thumbnail(size,Image.ANTIALIAS)
+        #im_s.show()
+        im.save(dir_outpath+filterame+'.png')
+        print dir_outpath+filterame+'.png'
+    print 'ok!'
