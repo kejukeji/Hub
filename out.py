@@ -7,11 +7,11 @@ def out_image_name():
         temp_count = str(count)
         temp_len = len(temp_count)
         if temp_len == 1:
-            print "<img src='/static/images/milk/金装爱儿加奶粉罐_000"+ str(temp_count)+".png'>"
+            print "<img src='/static/images/milk/000"+ str(temp_count)+".png'>"
         if temp_len == 2:
-            print "<img src='/static/images/milk/金装爱儿加奶粉罐_00"+ str(temp_count)+".png'>"
+            print "<img src='/static/images/milk/00"+ str(temp_count)+".png'>"
         if temp_len == 3:
-            print "<img src='/static/images/milk/金装爱儿加奶粉罐_0"+ str(temp_count)+".png'>"
+            print "<img src='/static/images/milk/0"+ str(temp_count)+".png'>"
 
         if count >= 100:
             break
@@ -21,22 +21,24 @@ def out_image_name():
 
 
 if __name__ == '__main__':
-    import Image
-    import glob, os
-    dir_outpath=r'/Users/K/Documents/Static/milk2//'
-    size = 640, 380
-    for files in  glob.glob(r'/Users/K/Documents/Static/milk/*.png'):
-        #print files
-        filepath,filename = os.path.split(files)
-        filterame,exts = os.path.splitext(filename)
-        #print filepath,'/n',filename,'/n',filterame,'/n',exts
-        if(os.path.isdir(dir_outpath)==False):
-            os.mkdir(dir_outpath)
-            print 'make dir:',dir_outpath
-        im=Image.open(files)
-        w,h=im.size
-        im.thumbnail(size,Image.ANTIALIAS)
-        #im_s.show()
-        im.save(dir_outpath+filterame+'.png')
-        print dir_outpath+filterame+'.png'
-    print 'ok!'
+    out_image_name()
+    #import Image
+    #import glob, os
+    #dir_outpath=r'/Users/K/Documents/Static/milk2//'
+    #size = 640, 380
+    #for files in  glob.glob(r'/Users/K/Documents/Static/milk/*.png'):
+    #    #print files
+    #    filepath,filename = os.path.split(files)
+    #    filterame,exts = os.path.splitext(filename)
+    #    #print filepath,'/n',filename,'/n',filterame,'/n',exts
+    #    if(os.path.isdir(dir_outpath)==False):
+    #        os.mkdir(dir_outpath)
+    #        print 'make dir:',dir_outpath
+    #    im=Image.open(files)
+    #    w,h=im.size
+    #    im.thumbnail(size,Image.ANTIALIAS)
+    #    temp_name = filterame.split('_')[1]
+    #    #im_s.show()
+    #    im.save(dir_outpath+temp_name+'.png')
+    #    print dir_outpath+temp_name+'.png'
+    #print 'ok!'
