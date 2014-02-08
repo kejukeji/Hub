@@ -32,6 +32,12 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/min')
+def min_tank():
+    ''''''
+    return render_template('min.html')
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=7557)
 

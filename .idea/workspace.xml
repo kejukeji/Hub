@@ -2,7 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b591aa03-7fa6-4fcf-8229-55d01c31c4c4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0013.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0014.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0018.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0019.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0022.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0023.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0025.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0026.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0027.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0028.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0029.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0031.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0032.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0033.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0034.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0035.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0036.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0037.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0038.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0039.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0040.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0041.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0042.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0043.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0044.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0045.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0046.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0047.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0049.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0050.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0051.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0052.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0053.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0054.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0055.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0056.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0057.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0058.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0059.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0060.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0061.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0062.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0063.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0064.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0065.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0066.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0067.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0068.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0069.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0070.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0071.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0072.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0073.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0074.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0075.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0076.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0077.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0078.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0079.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0080.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0081.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0082.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0083.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0084.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0085.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0086.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0087.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0088.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0089.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0090.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0091.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0092.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0093.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0094.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0095.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0097.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0098.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0099.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/min/0100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/min.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out.py" afterPath="$PROJECT_DIR$/out.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_hub_server.py" afterPath="$PROJECT_DIR$/test_hub_server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,8 +118,8 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Hub$test_hub_server.coverage" NAME="test_hub_server Coverage Results" MODIFIED="1391751712016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hub$out.coverage" NAME="out Coverage Results" MODIFIED="1391762549756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hub$test_hub_server.coverage" NAME="test_hub_server Coverage Results" MODIFIED="1391832030742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hub$out.coverage" NAME="out Coverage Results" MODIFIED="1391831883666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,25 +136,38 @@
       <file leaf-file-name="test_hub_server.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_hub_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="37" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-              <folding />
+            <state line="47" column="20" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="810">
+              <folding>
+                <marker date="1391831265000" expanded="true" signature="603:653" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="out.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="min.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/min.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="33" selection-start="1122" selection-end="1122" vertical-scroll-proportion="-14.625" vertical-offset="9" max-vertical-offset="1905">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="out.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/out.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="23" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
+            <state line="32" column="23" selection-start="912" selection-end="912" vertical-scroll-proportion="0.52863437" vertical-offset="240" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="179" selection-end="179" vertical-scroll-proportion="0.13953489" vertical-offset="0" max-vertical-offset="1905">
+            <state line="12" column="15" selection-start="519" selection-end="519" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1905">
               <folding>
                 <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -87,10 +204,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test_hub_server.py" />
         <option value="$PROJECT_DIR$/static/js/j360.js" />
-        <option value="$PROJECT_DIR$/out.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/test_hub_server.py" />
+        <option value="$PROJECT_DIR$/templates/min.html" />
+        <option value="$PROJECT_DIR$/out.py" />
       </list>
     </option>
   </component>
@@ -152,11 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,6 +307,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -200,7 +315,7 @@
       <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.out">
+  <component name="RunManager" selected="Python.test_hub_server">
     <configuration default="false" name="test_hub_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,8 +514,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.out" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_hub_server" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_hub_server" />
+        <item index="1" class="java.lang.String" itemvalue="Python.out" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +569,9 @@
     <entry file="file://$PROJECT_DIR$/test_hub_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="37" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="720">
-          <folding />
+          <folding>
+            <marker date="1391831265000" expanded="true" signature="603:653" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -470,7 +587,9 @@
     <entry file="file://$PROJECT_DIR$/test_hub_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="38" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="735">
-          <folding />
+          <folding>
+            <marker date="1391831265000" expanded="true" signature="603:653" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -486,7 +605,9 @@
     <entry file="file://$PROJECT_DIR$/test_hub_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="38" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="735">
-          <folding />
+          <folding>
+            <marker date="1391831265000" expanded="true" signature="603:653" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -513,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_hub_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="37" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/j360.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="84" selection-start="4298" selection-end="4298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2385">
@@ -529,19 +643,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="23" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="179" selection-end="179" vertical-scroll-proportion="0.13953489" vertical-offset="0" max-vertical-offset="1905">
+        <state line="12" column="15" selection-start="519" selection-end="519" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1905">
           <folding>
             <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/min.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="33" selection-start="1122" selection-end="1122" vertical-scroll-proportion="-14.625" vertical-offset="9" max-vertical-offset="1905">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_hub_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="20" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="810">
+          <folding>
+            <marker date="1391831265000" expanded="true" signature="603:653" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="23" selection-start="912" selection-end="912" vertical-scroll-proportion="0.52863437" vertical-offset="240" max-vertical-offset="750">
+          <folding />
         </state>
       </provider>
     </entry>
