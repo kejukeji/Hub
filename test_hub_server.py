@@ -37,6 +37,16 @@ def min_tank():
     ''''''
     return render_template('min.html')
 
+@app.route('/gold')
+def gold():
+    '''金装爱儿加'''
+    return render_template('gold.html')
+
+@app.route('/golds')
+def golds():
+    '''复'''
+    return render_template('golds.html')
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=7557)
