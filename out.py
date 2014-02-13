@@ -7,11 +7,11 @@ def out_image_name():
         temp_count = str(count)
         temp_len = len(temp_count)
         if temp_len == 1:
-            print "<img src='/static/images/golds/000"+ str(temp_count)+".png'>"
+            print "<img src='/static/images/milk/000"+ str(temp_count)+".png'>"
         if temp_len == 2:
-            print "<img src='/static/images/golds/00"+ str(temp_count)+".png'>"
+            print "<img src='/static/images/milk/00"+ str(temp_count)+".png'>"
         if temp_len == 3:
-            print "<img src='/static/images/golds/0"+ str(temp_count)+".png'>"
+            print "<img src='/static/images/milk/0"+ str(temp_count)+".png'>"
 
         if count <= 0:
             break
@@ -24,9 +24,9 @@ if __name__ == '__main__':
     out_image_name()
     #import Image
     #import glob, os
-    #dir_outpath=r'/Users/K/Documents/Plugin/huishi/golds//'
+    #dir_outpath=r'/Users/K/Documents/Static/milk//'
     #size = 640, 380
-    #for files in  glob.glob(r'/Users/K/Documents/Plugin/huishi/s/*.png'):
+    #for files in  glob.glob(r'/Users/K/Documents/Static/gold/*.png'):
     #    #print files
     #    filepath,filename = os.path.split(files)
     #    filterame,exts = os.path.splitext(filename)

@@ -2,113 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b591aa03-7fa6-4fcf-8229-55d01c31c4c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0000.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0004.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0006.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0007.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0008.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0009.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0010.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0011.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0012.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0018.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0019.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0020.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0021.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0022.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0023.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0025.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0026.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0027.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0028.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0029.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0030.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0031.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0032.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0033.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0034.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0035.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0036.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0037.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0038.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0039.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0040.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0041.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0042.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0043.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0044.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0045.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0046.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0047.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0048.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0049.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0050.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0052.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0053.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0054.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0055.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0056.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0057.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0058.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0059.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0060.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0061.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0062.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0063.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0064.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0065.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0066.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0067.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0068.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0069.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0070.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0071.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0072.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0073.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0074.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0075.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0076.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0077.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0078.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0079.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0080.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0081.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0082.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0083.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0084.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0085.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0086.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0087.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0088.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0089.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0090.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0091.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0092.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0093.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0094.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0095.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0096.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0097.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0098.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0099.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/golds/0100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/cover.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/gold.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/golds.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/36.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0000.png" afterPath="$PROJECT_DIR$/static/images/milk/0000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0001.png" afterPath="$PROJECT_DIR$/static/images/milk/0001.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0002.png" afterPath="$PROJECT_DIR$/static/images/milk/0002.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0003.png" afterPath="$PROJECT_DIR$/static/images/milk/0003.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0004.png" afterPath="$PROJECT_DIR$/static/images/milk/0004.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0005.png" afterPath="$PROJECT_DIR$/static/images/milk/0005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0006.png" afterPath="$PROJECT_DIR$/static/images/milk/0006.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0007.png" afterPath="$PROJECT_DIR$/static/images/milk/0007.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0008.png" afterPath="$PROJECT_DIR$/static/images/milk/0008.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0009.png" afterPath="$PROJECT_DIR$/static/images/milk/0009.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0010.png" afterPath="$PROJECT_DIR$/static/images/milk/0010.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0011.png" afterPath="$PROJECT_DIR$/static/images/milk/0011.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0012.png" afterPath="$PROJECT_DIR$/static/images/milk/0012.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0013.png" afterPath="$PROJECT_DIR$/static/images/milk/0013.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0014.png" afterPath="$PROJECT_DIR$/static/images/milk/0014.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0015.png" afterPath="$PROJECT_DIR$/static/images/milk/0015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0016.png" afterPath="$PROJECT_DIR$/static/images/milk/0016.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0017.png" afterPath="$PROJECT_DIR$/static/images/milk/0017.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0018.png" afterPath="$PROJECT_DIR$/static/images/milk/0018.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0019.png" afterPath="$PROJECT_DIR$/static/images/milk/0019.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0020.png" afterPath="$PROJECT_DIR$/static/images/milk/0020.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0021.png" afterPath="$PROJECT_DIR$/static/images/milk/0021.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0022.png" afterPath="$PROJECT_DIR$/static/images/milk/0022.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0023.png" afterPath="$PROJECT_DIR$/static/images/milk/0023.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0024.png" afterPath="$PROJECT_DIR$/static/images/milk/0024.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0025.png" afterPath="$PROJECT_DIR$/static/images/milk/0025.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0026.png" afterPath="$PROJECT_DIR$/static/images/milk/0026.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0027.png" afterPath="$PROJECT_DIR$/static/images/milk/0027.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0028.png" afterPath="$PROJECT_DIR$/static/images/milk/0028.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0029.png" afterPath="$PROJECT_DIR$/static/images/milk/0029.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0030.png" afterPath="$PROJECT_DIR$/static/images/milk/0030.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0031.png" afterPath="$PROJECT_DIR$/static/images/milk/0031.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0032.png" afterPath="$PROJECT_DIR$/static/images/milk/0032.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0033.png" afterPath="$PROJECT_DIR$/static/images/milk/0033.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0034.png" afterPath="$PROJECT_DIR$/static/images/milk/0034.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0035.png" afterPath="$PROJECT_DIR$/static/images/milk/0035.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0036.png" afterPath="$PROJECT_DIR$/static/images/milk/0036.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0037.png" afterPath="$PROJECT_DIR$/static/images/milk/0037.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0038.png" afterPath="$PROJECT_DIR$/static/images/milk/0038.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0039.png" afterPath="$PROJECT_DIR$/static/images/milk/0039.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0040.png" afterPath="$PROJECT_DIR$/static/images/milk/0040.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0041.png" afterPath="$PROJECT_DIR$/static/images/milk/0041.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0042.png" afterPath="$PROJECT_DIR$/static/images/milk/0042.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0043.png" afterPath="$PROJECT_DIR$/static/images/milk/0043.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0044.png" afterPath="$PROJECT_DIR$/static/images/milk/0044.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0045.png" afterPath="$PROJECT_DIR$/static/images/milk/0045.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0046.png" afterPath="$PROJECT_DIR$/static/images/milk/0046.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0047.png" afterPath="$PROJECT_DIR$/static/images/milk/0047.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0048.png" afterPath="$PROJECT_DIR$/static/images/milk/0048.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0049.png" afterPath="$PROJECT_DIR$/static/images/milk/0049.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0050.png" afterPath="$PROJECT_DIR$/static/images/milk/0050.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0051.png" afterPath="$PROJECT_DIR$/static/images/milk/0051.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0052.png" afterPath="$PROJECT_DIR$/static/images/milk/0052.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0053.png" afterPath="$PROJECT_DIR$/static/images/milk/0053.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0054.png" afterPath="$PROJECT_DIR$/static/images/milk/0054.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0055.png" afterPath="$PROJECT_DIR$/static/images/milk/0055.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0056.png" afterPath="$PROJECT_DIR$/static/images/milk/0056.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0057.png" afterPath="$PROJECT_DIR$/static/images/milk/0057.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0058.png" afterPath="$PROJECT_DIR$/static/images/milk/0058.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0059.png" afterPath="$PROJECT_DIR$/static/images/milk/0059.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0060.png" afterPath="$PROJECT_DIR$/static/images/milk/0060.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0061.png" afterPath="$PROJECT_DIR$/static/images/milk/0061.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0062.png" afterPath="$PROJECT_DIR$/static/images/milk/0062.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0063.png" afterPath="$PROJECT_DIR$/static/images/milk/0063.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0064.png" afterPath="$PROJECT_DIR$/static/images/milk/0064.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0065.png" afterPath="$PROJECT_DIR$/static/images/milk/0065.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0066.png" afterPath="$PROJECT_DIR$/static/images/milk/0066.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0067.png" afterPath="$PROJECT_DIR$/static/images/milk/0067.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0068.png" afterPath="$PROJECT_DIR$/static/images/milk/0068.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0069.png" afterPath="$PROJECT_DIR$/static/images/milk/0069.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0070.png" afterPath="$PROJECT_DIR$/static/images/milk/0070.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0071.png" afterPath="$PROJECT_DIR$/static/images/milk/0071.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0072.png" afterPath="$PROJECT_DIR$/static/images/milk/0072.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0073.png" afterPath="$PROJECT_DIR$/static/images/milk/0073.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0074.png" afterPath="$PROJECT_DIR$/static/images/milk/0074.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0075.png" afterPath="$PROJECT_DIR$/static/images/milk/0075.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0076.png" afterPath="$PROJECT_DIR$/static/images/milk/0076.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0077.png" afterPath="$PROJECT_DIR$/static/images/milk/0077.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0078.png" afterPath="$PROJECT_DIR$/static/images/milk/0078.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0079.png" afterPath="$PROJECT_DIR$/static/images/milk/0079.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0080.png" afterPath="$PROJECT_DIR$/static/images/milk/0080.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0081.png" afterPath="$PROJECT_DIR$/static/images/milk/0081.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0082.png" afterPath="$PROJECT_DIR$/static/images/milk/0082.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0083.png" afterPath="$PROJECT_DIR$/static/images/milk/0083.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0084.png" afterPath="$PROJECT_DIR$/static/images/milk/0084.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0085.png" afterPath="$PROJECT_DIR$/static/images/milk/0085.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0086.png" afterPath="$PROJECT_DIR$/static/images/milk/0086.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0087.png" afterPath="$PROJECT_DIR$/static/images/milk/0087.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0088.png" afterPath="$PROJECT_DIR$/static/images/milk/0088.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0089.png" afterPath="$PROJECT_DIR$/static/images/milk/0089.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0090.png" afterPath="$PROJECT_DIR$/static/images/milk/0090.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0091.png" afterPath="$PROJECT_DIR$/static/images/milk/0091.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0092.png" afterPath="$PROJECT_DIR$/static/images/milk/0092.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0093.png" afterPath="$PROJECT_DIR$/static/images/milk/0093.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0094.png" afterPath="$PROJECT_DIR$/static/images/milk/0094.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0095.png" afterPath="$PROJECT_DIR$/static/images/milk/0095.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0096.png" afterPath="$PROJECT_DIR$/static/images/milk/0096.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0097.png" afterPath="$PROJECT_DIR$/static/images/milk/0097.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0098.png" afterPath="$PROJECT_DIR$/static/images/milk/0098.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0099.png" afterPath="$PROJECT_DIR$/static/images/milk/0099.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/milk/0100.png" afterPath="$PROJECT_DIR$/static/images/milk/0100.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out.py" afterPath="$PROJECT_DIR$/out.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_hub_server.py" afterPath="$PROJECT_DIR$/test_hub_server.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hub.iws" />
@@ -121,8 +152,8 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Hub$test_hub_server.coverage" NAME="test_hub_server Coverage Results" MODIFIED="1392115954383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hub$out.coverage" NAME="out Coverage Results" MODIFIED="1392115949403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hub$test_hub_server.coverage" NAME="test_hub_server Coverage Results" MODIFIED="1392283346082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hub$out.coverage" NAME="out Coverage Results" MODIFIED="1392283385507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -136,10 +167,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_hub_server.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test_hub_server.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_hub_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="40" selection-start="830" selection-end="830" vertical-scroll-proportion="1.1101322" vertical-offset="186" max-vertical-offset="960">
+            <state line="47" column="40" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
@@ -148,7 +179,7 @@
       <file leaf-file-name="min.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/min.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="33" selection-start="1122" selection-end="1122" vertical-scroll-proportion="-5.625" vertical-offset="225" max-vertical-offset="1905">
+            <state line="24" column="33" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1905">
               <folding />
             </state>
           </provider>
@@ -157,7 +188,7 @@
       <file leaf-file-name="cover.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/cover.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+            <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -166,19 +197,17 @@
       <file leaf-file-name="out.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="49" selection-start="445" selection-end="445" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="750">
+            <state line="11" column="32" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="39" selection-start="412" selection-end="412" vertical-scroll-proportion="-0.0" vertical-offset="135" max-vertical-offset="1905">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="15" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="0.51724136" vertical-offset="0" max-vertical-offset="1905">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -186,10 +215,8 @@
       <file leaf-file-name="gold.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/gold.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="48" selection-start="1031" selection-end="1031" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1905">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="22" column="48" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1905">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -197,10 +224,8 @@
       <file leaf-file-name="golds.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/golds.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="57" selection-start="1162" selection-end="1162" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="1905">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="24" column="57" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1905">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,11 +262,11 @@
         <option value="$PROJECT_DIR$/static/js/j360.js" />
         <option value="$PROJECT_DIR$/templates/min.html" />
         <option value="$PROJECT_DIR$/templates/cover.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/gold.html" />
-        <option value="$PROJECT_DIR$/out.py" />
         <option value="$PROJECT_DIR$/templates/golds.html" />
         <option value="$PROJECT_DIR$/test_hub_server.py" />
+        <option value="$PROJECT_DIR$/out.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -320,6 +345,28 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -340,8 +387,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -349,7 +396,7 @@
       <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_hub_server">
+  <component name="RunManager" selected="Python.out">
     <configuration default="false" name="test_hub_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -476,9 +523,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -500,6 +544,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -548,8 +595,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_hub_server" />
-        <item index="1" class="java.lang.String" itemvalue="Python.out" />
+        <item index="0" class="java.lang.String" itemvalue="Python.out" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_hub_server" />
       </list>
     </recent_temporary>
   </component>
@@ -571,11 +618,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.6009975" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3990025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2682927" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -585,6 +632,26 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3990025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.6009975" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -603,9 +670,7 @@
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="24" selection-start="995" selection-end="995" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="930">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -619,9 +684,7 @@
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="43" selection-start="752" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="930">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -640,9 +703,7 @@
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="39" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="930">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +723,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/cover.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+        <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
@@ -674,48 +735,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/min.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="33" selection-start="1122" selection-end="1122" vertical-scroll-proportion="-5.625" vertical-offset="225" max-vertical-offset="1905">
+        <state line="24" column="33" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1905">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="412" selection-end="412" vertical-scroll-proportion="-0.0" vertical-offset="135" max-vertical-offset="1905">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/gold.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="48" selection-start="1031" selection-end="1031" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1905">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="49" selection-start="445" selection-end="445" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="750">
+        <state line="22" column="48" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1905">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/golds.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="57" selection-start="1162" selection-end="1162" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="1905">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="24" column="57" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1905">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_hub_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="40" selection-start="830" selection-end="830" vertical-scroll-proportion="1.1101322" vertical-offset="186" max-vertical-offset="960">
+        <state line="47" column="40" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="0.51724136" vertical-offset="0" max-vertical-offset="1905">
           <folding />
         </state>
       </provider>
